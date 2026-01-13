@@ -80,7 +80,7 @@
     color:#162456;
 }
 .gtg_navmenu .nav-item a.dropdown-toggle::after{
-    background-image: url("../images/icons/down_arrow.svg");
+    background-image: url("../down_arrow.svg");
     background-size: 12px 7px;
     border: none;
     width: 12px;
@@ -226,7 +226,7 @@
   padding: 21px 32px;
   border-radius: 8px !important;
   &::after{
-   background-image: url("../images/icons/collaps_show_icon.svg");
+   background-image: url("../collaps_show_icon.svg");
    transform:none;
    background-size:14px;
    transition: all 0.5s;
@@ -240,7 +240,7 @@
   background-color:#FFFFFF;
   box-shadow:none;
   &::after{
-   background-image: url("../images/icons/collaps_icon.svg");
+   background-image: url("../collaps_icon.svg");
   }
 }
 .gtg_accordian_items .accordion-body {
@@ -563,4 +563,5 @@ color:#FFFFFF;
 }
 
 /* ---------Footer css End------- */
+
 
